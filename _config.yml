@@ -6,13 +6,13 @@ description: "Team Websolute"
 
 # THEME-SPECIFIC CONFIGURATION
 # Meta
-avatar: assets/img/avatars/red rose.jpg
+avatar: assets/img/avatars/pink rose.png
 color_image: /assets/img/lineart.png # In post when you set color
 favicon: assets/favicon.ico
 
 # Header and footer text
 header_text: Pave the way Websolute!
-header_feature_image: assets/img/pexels/sky4.png
+header_feature_image: assets/img/pexels/sky5.png
 footer_text: Copyright 2020
 
 # Blog
