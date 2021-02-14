@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web1 - Javascript
+title: Web2 - Javascript
 color: rgb(255,178,217)
 tags: [web,javascript]
 ---
