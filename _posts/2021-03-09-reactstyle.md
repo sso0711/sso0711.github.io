@@ -60,3 +60,4 @@ class App extends Component {
 ```
 6. 
 prop에 따라 배경을 바꿔야 함.
+
