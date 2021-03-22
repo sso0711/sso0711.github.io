@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React
+title: ReactHooks
 color: rgb(242,85,44)
 tags: [reactJS]
 ---
@@ -29,14 +29,21 @@ tags: [reactJS]
 <br>
 <br>
 
-## Hook
+## Hooks
 - react의 state machine에 연결하는 기본적인 방법
+- functional component에서 state를 가질 수 있게 해줌
 - class를 작성할 필요 없이 상태값과 여러 React의 기능을 사용할 수 있다.
-- use-interval, use-input, use-in-view
+- import {} from "react";
+- use-interval, use-input, use-in-view...
+---
 
+- `useState()` 초기에 Initial State 세팅할 수 있는 옵션 제공 (괄호 안)  
+&emsp; &emsp; &emsp; &emsp; &emsp;array로 2개의 value(값, 값을 변경)를 return
 
-- `useState` 초기에 state를 InitialState 세팅할 수 있는 옵션 제공
-값을 return
+```
+
+```
+
 - `useTitle` react document의 title을 몇 개의 hooks와 함께 바꿈
 - `useInput` input 역할
 - `usePageLeave` 유저가 page를 벗어나는 시점을 발견하고 함수를 실행
