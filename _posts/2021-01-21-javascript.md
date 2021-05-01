@@ -331,8 +331,9 @@ if (true) {
 <br>
 
 ## `9.리팩토링(refactoring)`
-가독성, 유지보수 위함.<br>
-코딩하면서 틈틈이 필요.
+- 동작하는 것은 똑같지만 효율적인 코드로 바꾸는 것
+- 가독성, 유지보수 위함.<br>
+- 코딩하면서 틈틈이 필요.
 <br>
 <br>
 <br>
@@ -342,6 +343,93 @@ document.querySelector('#id')`.value` = night
 
 this`.value` = night
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## `10. 배열과 반복문`
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## `11. 함수 (=메소드)`
+---
+<br>
+
+- 반복되는 코드가 연속적이지 않을 때 반복문 대신 함수 사용  
+\<script>태그 안에 
+
+```javascript
+function 함수이름(매개변수) {
+   return a+b;
+}
+```
+<br>
+<br>
+<br>
+
+```javascript
+const 함수이름 = (매개변수) => {a + b}
+```
+- `화살표함수` {}가 없을 경우에만 return
+- 함수이름(매개변수)를 선언함으로써 코드 내용을 불러옴.
+
+```javascript
+function nightDayHandler(self) {
+   self.value
+}
+
+<input onclick="
+nightDayHandler(this) 
+```
+- this가 \<input> 태그를 선택
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## `12.객체(object)`
+- 함수 기반.
+- 정리정돈의 수단.
+- 서로 연관된 함수와 변수를 그루핑
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## `13.파일로 묶어서 정리하기`
+연관된 코드들을 파일로 묶어서 정리
 
 
-...........................
+#include <stdio.h>
+
+int main(void)
+{
+   char name[];
+   printf("Enter a first and last name:");
+   scanf_s("%s",&name);
+}
+
+
+
+	
+
