@@ -2,7 +2,7 @@
 layout: post
 title: ReactHooks
 color: rgb(242,85,44)
-tags: [reactJS]
+tags: [reacthooks]
 ---
 노마드코더 https://nomadcoders.co/react-fundamentals/lectures/1546
 <br>
