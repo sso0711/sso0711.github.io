@@ -54,6 +54,7 @@ exclude:
     "LICENSE",
     "README.md",
     "screenshot.png",
+    "node_modules",
     "assets/package.json",
     "assets/node_modules",
     "assets/gulpfile.js",
