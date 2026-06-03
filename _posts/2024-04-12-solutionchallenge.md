@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Firebase
 color: rgb(242,85,44)
 tags: [solution challenge, firebase]
 ---
@@ -14,9 +14,6 @@ tags: [solution challenge, firebase]
 `cloud Firestore`
 `cloud storage` 이미지,오디오,동영상 등 사용자 제작 콘텐츠를 저장하고 제공
 `Authentication`
-
-솔루션 챌린지에서 실시간으로
-음악(.mp3)데이터
 
 <br>
 <br>
