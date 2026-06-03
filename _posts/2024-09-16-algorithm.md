@@ -1,3 +1,10 @@
+---
+layout: post
+title: 알고리즘 및 문제해결기법
+color: rgb(242,85,44)
+tags: [algorithm]
+---
+
 한양대학교 박희진 교수님의 '알고리즘 및 문제해결기법' 강의 내용을 요약한 자료입니다.
 
 problem
@@ -58,12 +65,10 @@ quicksort, mergesrot
 
 - 주어진 배열 `A`에서 값이 i일 경우 새로운 배열 `C`[i] += 1
 - O(n+k)의 시간복잡도
-
   - n은 입력값의 갯수, k는 입력값의 범위를 의미한다.
 
 - `stable` input 배열의 같은 값의 순서가 output 배열에서도 보존됨.
   ![image](https://github.com/user-attachments/assets/29ba9a26-2cd4-413a-9509-879916a93857)
-
   - `C'`배열 추가 : C'[i] == C배열의 0 ~ i 인덱스 값들의 합
   - C'배열을 얻는 데에 세타(k)의 시간복잡도가 소모된다.
     (C'[i] = C'[i-1] + C[i])

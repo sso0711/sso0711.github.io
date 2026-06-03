@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://sso0711.github.io"
 title: "Soyoung's blog"
-description: "Team Websolute"
+description: "A blog about computer science, web development, and more."
 
 # THEME-SPECIFIC CONFIGURATION
 # Meta
@@ -11,7 +11,7 @@ color_image: /assets/img/lineart.png # In post when you set color
 favicon: assets/favicon.ico
 
 # Header and footer text
-header_text: Pave the way Websolute!
+header_text: Pave the way, leave a trail.
 header_feature_image: assets/img/pexels/sky8.jpg
 footer_text: Copyright 2020
 

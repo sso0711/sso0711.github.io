@@ -1,4 +1,9 @@
-## wsl
+---
+layout: post
+title: docker, vm
+color: rgb(242,85,44)
+tags: [docker]
+---
 
 ## Docker engine 실행 오류
 
