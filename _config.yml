@@ -57,6 +57,11 @@ exclude:
     "assets/package.json",
     "assets/node_modules",
     "assets/gulpfile.js",
+    "_posts/2023-08-10-pythonCodingTest.jpeg",
+    "_posts/2023-08-10-pythonCodingTest.pdf",
+    "_posts/2023-08-10-pythonCodingTest.png",
+    "_posts/2024-01-07-dp.png",
+    "_posts/2024-03-21-spring.pdf",
     "themes",
   ]
 remote_theme: sylhare/Type-on-Strap
